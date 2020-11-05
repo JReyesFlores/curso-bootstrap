@@ -27,6 +27,14 @@
 #carousel .overlay .row {
     height: 100%;
 }
+#placetime {
+    background-color: #343a40;
+    color: #ffffff;
+}
+
+#placetime img {
+   max-width: 100%;
+}
 
 #footer {
     background: linear-gradient(90deg,#1c3643,#273b47 25%, #1e5372);
